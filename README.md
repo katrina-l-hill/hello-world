@@ -1,2 +1,3 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+# About Me
+
+My name is Katrina Hill. I'm currently a student.
